@@ -1,0 +1,55 @@
+body {
+    color: black;
+    background-color: #c5f0ec;
+    width: auto;
+    border: 0;
+    padding: 0.5%;
+    margin: 0;
+}
+
+table, th, td {
+   font-family: "Courier New", Courier, monospace;
+}
+
+table {
+  width: auto;
+}
+
+th, td {
+  padding: 0.5%;
+}
+
+td {
+  border-top: 3px solid #9ee6df;
+}
+
+th {
+  font-size: 17px;
+  background-color: #9ee6df;
+  border: 3px solid #9ee6df;
+  padding: 1.5%;
+}
+
+a, .link {
+  color: #1b8279;
+}
+
+.header {
+  text-align: center;
+  font-size: 25px;
+  padding: 5;
+  font-family: "Courier New", Courier, monospace;
+}
+
+hr {
+    display: block;
+    border: 0;
+    border-top: 3px solid #9ee6df;
+    margin: 1em 0;
+    padding: 5; 
+}
+
+#nonmain {
+  padding: 2px;
+  border: 1px solid black;
+}

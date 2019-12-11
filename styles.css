@@ -1,0 +1,19 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: #c5f0ec;
+}
+
+.bio {
+  background-color: #9ee6df;
+  padding: 1%;
+}
+
+.bodytext{
+  padding: 1%;
+}
+
+h1 {
+  background-color: #9ee6df;
+  text-align: center;
+  padding: 1%;
+}
